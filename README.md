@@ -175,7 +175,7 @@ Algunes de les àrees en les quals estic treballant són:
 ---
 
 ## 📫 Contacte
-
+__Gmail:__ lucascanto2109@gmail.com
 <div align="center">
 
 <a href="https://github.com/lucascanto26">
