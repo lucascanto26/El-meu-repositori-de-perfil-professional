@@ -1,4 +1,4 @@
-# El-meu-repositori-de-perfil-professional
+# lucascanto26
 
 Hola Jo sóc Lucas Canto Martinez, tinc 17 anys i actualment sóc estudiant.
 
@@ -13,3 +13,7 @@ El SMX ensenya a muntar i mantenir ordinadors, instal·lar i configurar sistemes
 __ELS MEUS PROJECTES O PRÀCTIQUES__
 
 Els meus projectes en aquest moment és aprendre tot el que pugui per després inventar o començar un projecte pel meu compte.
+
+__INTERESSES PERSONALS I OBJECTIUS PROFESSIONALS__
+
+Els meus objectius professionals es arribar a ser un enginyer informàtic. I algun dia poder formar una start-up.
