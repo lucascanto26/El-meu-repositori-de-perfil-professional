@@ -8,22 +8,4 @@ Estic estudiant un cfgm de sistemes microinformàtics i xarxes. M'agaradaria apr
 
 __COMPETÈNCIES I TECNOLOGIES RELACIONADES AMB SMX__
 
-Muntatge i manteniment d’ordinadors: instal·lar i substituir components com RAM, discs, fonts d’alimentació i targetes gràfiques.
-
-Sistemes operatius: instal·lar i configurar Windows i Linux (Ubuntu).
-
-Xarxes: configurar IP, DHCP, DNS, routers, switches i connexions de xarxa.
-
-Seguretat informàtica: protegir ordinadors i xarxes contra virus, atacs i accessos no autoritzats.
-
-Virtualització: crear i utilitzar màquines virtuals amb programes com VirtualBox.
-
-Programació i scripts: utilitzar llenguatges bàsics com Python i scripts de Linux.
-
-Bases de dades i serveis: treballar amb servidors i serveis de xarxa.
-
-Web: crear pàgines web amb HTML, CSS i JavaScript.
-
-Git i Markdown: documentar projectes i controlar les versions dels fitxers.
-
-Suport tècnic: detectar i solucionar problemes de maquinari, programari i xarxes.
+El SMX ensenya a muntar i mantenir ordinadors, instal·lar i configurar sistemes operatius com Windows i Linux, crear i administrar xarxes, configurar servidors i màquines virtuals, i aplicar mesures de seguretat informàtica. També es treballen tecnologies com Python, HTML, CSS, JavaScript, Git i VirtualBox, així com la resolució de problemes de maquinari i programari.
