@@ -17,3 +17,7 @@ Els meus projectes en aquest moment és aprendre tot el que pugui per després i
 __INTERESSES PERSONALS I OBJECTIUS PROFESSIONALS__
 
 Els meus objectius professionals es arribar a ser un enginyer informàtic. I algun dia poder formar una start-up.
+
+__INFORMACIÓ DE CONTACTE__
+
+__Gmail:__ lucascanto2109@gmail.com
